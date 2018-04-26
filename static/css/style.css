@@ -1,0 +1,51 @@
+.year-btn {
+	margin: 5px 2px 5px 2px !important;
+}
+
+#main {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#page_title {
+	margin-bottom: 10px;
+}
+
+#score_table_title {
+	padding-top: 20px;
+}
+
+#link1 {
+	padding-top: 15px;
+}
+
+.calculator-title {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#tab {
+	padding-bottom: 0px;
+}
+
+.calculator-checkbox {
+	padding-bottom: 20px;
+}
+
+#point_calc .form-control, #point_calc .form-check .form-check-sign::before, #point_calc .form-check .form-check-sign::after {
+	border: 1px solid #868686;
+}
+
+.calculator-info {
+	color: #3742fa;
+}
+
+.year-select-col {
+	margin-top: 20px;
+	margin-left: -20px;
+}
+
+.year-select {
+	padding-top: 5px;
+	width: 100px;
+}
