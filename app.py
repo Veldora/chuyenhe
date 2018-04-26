@@ -6,7 +6,7 @@ app = Flask(__name__)
 def index2():
     return render_template('chuyenhe.html')
 
-@app.route('/google71f185714e0c0e1a')
+@app.route('/google71f185714e0c0e1a.html')
 def index5():
     return render_template('google71f185714e0c0e1a.html')
 
