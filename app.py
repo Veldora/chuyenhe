@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index2():
-    return render_template('chuyenhe.html')
+    return render_template('countdown.html')
 
 @app.route('/diem')
 def index20():
